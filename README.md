@@ -23,7 +23,7 @@
 
 **See it in action**
 
-![Vid](https://i.imgur.com/llXaMU4.mp4)
+![gaps](https://i.imgur.com/pnOjyum.gifv)
 
 **Placeholder**
 
