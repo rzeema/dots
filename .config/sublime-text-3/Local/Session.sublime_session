@@ -1,0 +1,525 @@
+{
+	"folder_history":
+	[
+		"/usr/bin"
+	],
+	"last_version": 3207,
+	"last_window_id": 9,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 746.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ec",
+						"exec"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"package control: disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"i3",
+						"Set Syntax: i3-wm Config"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"keybin",
+						"Preferences: Key Bindings"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"material theme",
+						"Material Theme: Advanced configuration"
+					],
+					[
+						"material",
+						"Material Theme: Configuration"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"toggle menu",
+						"View: Toggle Menu"
+					],
+					[
+						"vme",
+						"View: Toggle Menu"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 532.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/usr/bin/i3-scrot",
+				"/home/jack/.config/i3-scrot.conf",
+				"/home/jack/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/jack/.config/StardewValley/startup_preferences",
+				"/usr/bin/scrot",
+				"/home/jack/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/jack/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 81.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"battery",
+					"xwindow"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 81.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 170.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1366.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"shi",
+						"Shift"
+					],
+					[
+						"bord",
+						"border_size"
+					],
+					[
+						"ec",
+						"exec"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/jack/.config/i3/config",
+					"settings":
+					{
+						"buffer_size": 8671,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jack/.config/polybar/config",
+					"settings":
+					{
+						"buffer_size": 9843,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"i3w",
+						"Set Syntax: i3-wm Config"
+					],
+					[
+						"syntax plain",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"package control ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"package control: disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"i3",
+						"Set Syntax: i3-wm Config"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"keybin",
+						"Preferences: Key Bindings"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"material theme",
+						"Material Theme: Advanced configuration"
+					],
+					[
+						"material",
+						"Material Theme: Configuration"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"toggle menu",
+						"View: Toggle Menu"
+					],
+					[
+						"vme",
+						"View: Toggle Menu"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 532.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/jack/.config/ranger/rc.conf",
+				"/usr/bin/i3-scrot",
+				"/home/jack/.config/i3-scrot.conf",
+				"/home/jack/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/jack/.config/StardewValley/startup_preferences",
+				"/usr/bin/scrot",
+				"/home/jack/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/jack/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 81.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"layout toggle",
+					"battery",
+					"spotify",
+					"memory",
+					"ram",
+					"battery",
+					"xwindow"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/jack/.config/i3/config",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8671,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										8671,
+										8671
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/i3 wm/Syntax/i3wm_config.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 18.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/jack/.config/polybar/config",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9843,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										8304,
+										8304
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 3579.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,0,22,1366,768,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 170.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 6,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

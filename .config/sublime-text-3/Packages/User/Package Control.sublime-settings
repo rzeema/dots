@@ -1,0 +1,13 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Dracula Color Scheme",
+		"i3 wm",
+		"Material Theme",
+		"Package Control"
+	]
+}
