@@ -23,7 +23,7 @@
 
 **See it in action**
 
-![Vid](https://i.imgur.com/llXaMU4.mp4)
+![Vid](/media/gaps-scale.gif)
 
 **Placeholder**
 
