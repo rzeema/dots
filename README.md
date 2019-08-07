@@ -23,7 +23,7 @@
 
 **See it in action**
 
-![GIF]()
+![Vid](https://i.imgur.com/llXaMU4.mp4)
 
 **Placeholder**
 
