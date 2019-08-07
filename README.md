@@ -2,22 +2,9 @@
 
 # Rzeema's Pimping dot files
 
-> My personal dotfiles
+> Tasty Rice for productivity
 
-**Programs & Dependencies**
-
-- i3 gaps
-- urxvt
-- rofi
-- ranger
-- vscode
-- chromium
-- vim
-- scrot
-- fish shell
-- sublime text 3
-
-**_Screen-shots_**
+**_Screenshots_**
 
 ![Preview](https://i.imgur.com/msgy0VJ.png)
 
@@ -46,9 +33,24 @@
 
 ## Table of Contents (under construction)
 
-- [Features](#dependencies)
+- [Dependencies](#dependencies)
 - [Installation](#installation)
-- [Installation](#installation)
+- [Screenshots](#screenshots)
+
+---
+
+## Programs & Dependencies
+
+- i3 gaps
+- urxvt
+- rofi
+- ranger
+- vscode
+- chromium
+- vim
+- scrot
+- fish shell
+- sublime text 3
 
 ---
 
