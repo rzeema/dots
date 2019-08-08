@@ -1,4 +1,4 @@
-<a href="https://github.com/rzeema"><img src="https://i.imgur.com/p7tKKPQ.png" title="Rzeema" alt="Pepe"></a>
+<a href="https://github.com/rzeema"><img src="http://i.imgur.com/lZyrXIq.gif" title="Rzeema" alt="Pepe"></a>
 
 # Rzeema's Pimping dot files
 
