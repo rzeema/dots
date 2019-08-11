@@ -1,4 +1,6 @@
-rofi.combi-modi:    window,drun,ssh
+rofi.combi-modi:    drun,run
 rofi.font:          hack 12
 rofi.modi:          combi
 rofi.hide-scrollbar: true
+rofi.show-match: false
+rofi.show-icons: true

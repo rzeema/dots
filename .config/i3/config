@@ -183,7 +183,6 @@ exec_always --no-startup-id ~/.config/polybar/launch.sh
 # Pulse Audio controls
 bindsym XF86AudioRaiseVolume exec --no-startup-id amixer set Master 5%+ #increase sound volume
 bindsym XF86AudioLowerVolume exec --no-startup-id amixer set Master 5%- #decrease sound volume
-# bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute 0 toggle # mute sound
 bindsym XF86AudioMute exec --no-startup-id amixer set Master toggle # mute sound
 
 # Sreen brightness controls
@@ -203,6 +202,7 @@ exec --no-startup-id nm-applet --sm-disable
 exec --no-startup-id pamac-tray
 exec_always --no-startup-id feh --bg-fill ~/Pictures/Wallpapers/eclipse.png
 exec_always --no-startup-id xfce4-power-manager
+exec_always --no-startup-id megasync
 
 # i3 gaps settings
 
@@ -224,8 +224,18 @@ bindsym Print 				   exec --no-startup-id scrot ~/Pictures/Screenshots/screensho
 bindsym Mod1+Sys_Req --release exec --no-startup-id scrot -u ~/Pictures/Screenshots/screenshot-focused-$(date +%F_%T).png -e 'xclip -selection c -t image/png < $f' && notify-send -i /home/jack/Pictures/Frogs/fed-up.png -t 1000 "Screenshot saved"
 bindsym $mod+Shift+s --release exec --no-startup-id scrot -s /tmp/screenshot-$(date +%F_%T).png -e 'xclip -selection c -t image/png < $f' && notify-send -i /home/jack/Pictures/Frogs/fed-up.png -t 1000 "Selection Clipped"
 
+# lockscreen
+bindsym $mod+Shift+x exec --no-startup-id ~/.config/i3/lock.sh
+
 # Application binds
 bindsym $mod+g exec --no-startup-id chromium
 
 # Float windows 
 for_window [class="Pamac-manager"] floating enable
+
+# Auto-start
+exec_always --no-startup-id caprine
+exec_always --no-startup-id discord
+
+assign [class="discord"] 2
+assign [class="caprine"] 2
